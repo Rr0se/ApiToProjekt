@@ -1,0 +1,17 @@
+C:\Users\it-solve\Desktop\MS\Projects\Api\ApiToProject\ApiToProject\bin\Debug\netcoreapp2.0\ApiToProject.deps.json
+C:\Users\it-solve\Desktop\MS\Projects\Api\ApiToProject\ApiToProject\bin\Debug\netcoreapp2.0\ApiToProject.runtimeconfig.json
+C:\Users\it-solve\Desktop\MS\Projects\Api\ApiToProject\ApiToProject\bin\Debug\netcoreapp2.0\ApiToProject.runtimeconfig.dev.json
+C:\Users\it-solve\Desktop\MS\Projects\Api\ApiToProject\ApiToProject\bin\Debug\netcoreapp2.0\ApiToProject.dll
+C:\Users\it-solve\Desktop\MS\Projects\Api\ApiToProject\ApiToProject\bin\Debug\netcoreapp2.0\ApiToProject.pdb
+C:\Users\it-solve\Desktop\MS\Projects\Api\ApiToProject\ApiToProject\obj\Debug\netcoreapp2.0\ApiToProject.csprojAssemblyReference.cache
+C:\Users\it-solve\Desktop\MS\Projects\Api\ApiToProject\ApiToProject\obj\Debug\netcoreapp2.0\ApiToProject.csproj.CoreCompileInputs.cache
+C:\Users\it-solve\Desktop\MS\Projects\Api\ApiToProject\ApiToProject\obj\Debug\netcoreapp2.0\ApiToProject.AssemblyInfoInputs.cache
+C:\Users\it-solve\Desktop\MS\Projects\Api\ApiToProject\ApiToProject\obj\Debug\netcoreapp2.0\ApiToProject.AssemblyInfo.cs
+C:\Users\it-solve\Desktop\MS\Projects\Api\ApiToProject\ApiToProject\obj\Debug\netcoreapp2.0\ApiToProject.dll
+C:\Users\it-solve\Desktop\MS\Projects\Api\ApiToProject\ApiToProject\obj\Debug\netcoreapp2.0\ApiToProject.pdb
+C:\Users\it-solve\Downloads\ProjectProfileGenerator-marcin\ProjectProfileGenerator-master\ApiToProject\obj\Debug\netcoreapp2.0\ApiToProject.csprojResolveAssemblyReference.cache
+C:\Users\it-solve\Downloads\ProjectProfileGenerator-marcin\ProjectProfileGenerator-master\ApiToProject\obj\Debug\netcoreapp2.0\ApiToProject.csproj.CoreCompileInputs.cache
+C:\Users\it-solve\Downloads\ProjectProfileGenerator-marcin\ProjectProfileGenerator-master\ApiToProject\obj\Debug\netcoreapp2.0\ApiToProject.AssemblyInfoInputs.cache
+C:\Users\it-solve\Downloads\ProjectProfileGenerator-marcin\ProjectProfileGenerator-master\ApiToProject\obj\Debug\netcoreapp2.0\ApiToProject.AssemblyInfo.cs
+C:\Users\it-solve\Downloads\ProjectProfileGenerator-marcin\ProjectProfileGenerator-master\ApiToProject\obj\Debug\netcoreapp2.0\ApiToProject.dll
+C:\Users\it-solve\Downloads\ProjectProfileGenerator-marcin\ProjectProfileGenerator-master\ApiToProject\obj\Debug\netcoreapp2.0\ApiToProject.pdb
